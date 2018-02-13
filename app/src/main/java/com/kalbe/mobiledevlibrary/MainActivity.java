@@ -57,7 +57,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends Activity {
     ImageView img;
     TextView tvFile;
     String txtPathUserData;
